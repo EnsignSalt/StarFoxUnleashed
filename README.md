@@ -12,7 +12,8 @@ The original *Star Fox* was limited by the hardware of the time to a max of 20fp
 
 **Star Fox Unleashed gives you both.**
 
-The framerate cap has been lifted to a solid 30fps, and game speeds have been modified to account for the increased framerate—approximately double the original on average.
+The framerate cap has been lifted to a solid 30fps, and game speeds have been modified to account for the increased framerate—approximately double the original on average. An optional patch is also available for the "hypothetical" Super FX 3 chip made for the new SNES DOOM project, including FastROM for increased CPU performance. **Should** work on real hardware and/or flash carts.
+
 
 This is a refined second preview, approaching a polished release.
 
@@ -28,37 +29,13 @@ This is a refined second preview, approaching a polished release.
 
 ## Instructions
 
-1. Patch `Star Fox (USA) (Rev 2).sfc` or `Star Fox (Japan) (Rev 1).sfc` with the appropriate `.bps` file included in this release.
+1. Patch `Star Fox (USA) (Rev 2).sfc` or `Star Fox (Japan) (Rev 1).sfc` with the appropriate `.bps` file from the Releases area.
 2. Overclock your SNES CPU and Super FX chip in your emulator or flash cart as far as you can.
 3. Refer to the [Emulation Examples](#emulation-examples) section below for settings known to work well.
 
 ---
 
-## Included Patches
-
-There are four variants of *Star Fox Unleashed* included:
-
-### Base Builds
-
-The base build **should** work on real hardware. Best for flash carts, though it would likely work with Super FX 2 donor boards and a hardware overclock.
-
-| Patch File | Description |
-| :--- | :--- |
-| `StarFoxUnleashedP2-baseenglish.bps` | Base SNES Star Fox (English) |
-| `StarFoxUnleashedP2-basejapanese.bps` | Base SFC Star Fox (Japanese) |
-
-### Super FX 3 Builds
-
-Enhanced for the "hypothetical" Super FX 3 chip made for the new SNES DOOM project, as well as FastROM for increased CPU performance. **Should** work on real hardware and/or flash carts.
-
-| Patch File | Description |
-| :--- | :--- |
-| `StarFoxUnleashedP2-fx3english.bps` | Super FX 3 SNES Star Fox (English) |
-| `StarFoxUnleashedP2-fx3japanese.bps` | Super FX 3 SFC Star Fox (Japanese) |
-
----
-
-## Known Issues
+## Known Issues as of Preview 2
 
 1. Difficulty levels 2 and 3 have not been fully playtested.
 2. Training mode triangles are stuck to the ground.
@@ -111,7 +88,7 @@ Did you actually try them? And did you try this one?
 
 ## Unknown Issues
 
-You tell me! Send reports to [EnsignSalt@gmail.com](mailto:EnsignSalt@gmail.com).
+You tell me! Send reports to [EnsignSalt@gmail.com](mailto:EnsignSalt@gmail.com) or [GitHub](https://github.com/EnsignSalt/StarFoxUnleashed).
 
 
 ## Credits
